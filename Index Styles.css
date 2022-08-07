@@ -1,0 +1,23 @@
+h1{
+    background-color: aquamarine;
+    color: black;
+    padding: 30px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: olivedrab;
+}
+td {
+    border-spacing: 20px;
+    border: 1px solid black;
+    text-align: center;
+}
+table {
+    border-spacing: 30px;
+}
+img {
+    padding: 20px;
+}
